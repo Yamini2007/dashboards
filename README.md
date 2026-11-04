@@ -1,5 +1,7 @@
 I compared three regression models on used-car listings from Pune. The tuned Ridge Regression model predicted asking prices with an average absolute error of ₹1.56 lakh, compared with ₹4.38 lakh for the median-price baseline.
+### Used Car Price Prediction
 
+[View the Python analysis notebook](./Used_Car_price_prediction%20%282%29.ipynb)
 
 # Analytics Dashboards
 
